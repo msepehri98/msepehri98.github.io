@@ -20,3 +20,14 @@ I’m Mostafa. I am passionate about programming and tacklink challenging proble
 # 📖 Educations
 - **Associate’s degree, Computer Software Engineering**, [Islamic Azad University of Mashhad](https://mashhad.iau.ir/fa), Mashhad, Iran. *2021 - 2023* 
 
+# 💪 Skills
+- **Programming Languages**:
+
+  - 🐍 Python
+- **Frameworks and libraries**:
+
+  - 🌐 Django
+- **tools**:
+
+  - 💻 git
+  - 🐧 GNU/Linux
